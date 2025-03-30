@@ -10,7 +10,7 @@ const Footer = () => {
         <div className='footer-top-left'>
           <h1>Dickson<span style={{ color: '#ff0080' }}>M</span></h1>
           <p>
-            I am a Full Stack Developer from Nairobi, Kenya, with five years of experience in building dynamic and scalable web applications. Passionate about crafting efficient solutions, I specialize in both front-end and back-end development to create seamless digital experiences.
+            I am a Full Stack Developer and a Digital Marketer from Nairobi, Kenya, with five years of experience in building dynamic and scalable web applications. Passionate about crafting efficient solutions, I specialize in both front-end and back-end development to create seamless digital experiences.
           </p>
         </div>
         <div className='footer-email-container'>

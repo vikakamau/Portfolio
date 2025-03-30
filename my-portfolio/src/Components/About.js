@@ -17,7 +17,7 @@ const About = () => {
         <div className='about-right'>
             <div className='about-para'>
                 <p>I am a Full Stack Developer from Nairobi, Kenya, with five years of experience in building dynamic and scalable web applications. Passionate about crafting efficient solutions.</p>
-                <p> I specialize in both front-end and back-end development to create seamless digital experiences."</p>
+                <p> I specialize in both front-end and back-end development to create seamless digital experiences.</p>
             </div>
             <div className='about-skills'>
             <div className='about-skill'><p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
