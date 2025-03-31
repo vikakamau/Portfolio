@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css';
+import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope, FaInstagram } from 'react-icons/fa';
 
 import user_icon from '../../src/images/user.jpg';
 
@@ -12,6 +13,17 @@ const Footer = () => {
           <p>
             I am a Full Stack Developer and a Digital Marketer from Nairobi, Kenya, with five years of experience in building dynamic and scalable web applications. Passionate about crafting efficient solutions, I specialize in both front-end and back-end development to create seamless digital experiences.
           </p>
+          <div className="footer-social-links">
+            <a href="https://github.com/dickson4954?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <FaGithub className="social-icon" />
+            </a>
+            <a href="https://www.linkedin.com/in/dickson-murithi-34bb10311" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <FaLinkedin className="social-icon" />
+            </a>
+            <a href="mailto:dicksonmurithi155@gmail.com" aria-label="Email">
+              <FaEnvelope className="social-icon" />
+            </a>
+          </div>
         </div>
         <div className='footer-email-container'>
           <div className='footer-email-input'>
@@ -24,9 +36,9 @@ const Footer = () => {
       <div className='footer-bottom'>
         <p className='footer-bottom-left'>© 2025 Dickson Murithi. All rights reserved.</p>
         <div className='footer-bottom-right'>
-          <p>Terms of Service</p>
-          <p>Privacy Policy</p>
-          <p>Connect with me</p>
+          <a href="/terms">Terms of Service</a>
+          <a href="/privacy">Privacy Policy</a>
+          <a href="#contact">Connect with me</a>
         </div>
       </div>
     </div>
