@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './About.css';
-import profile_img from '../../src/images/murithi.jpg';
+import profile_img from '../../src/images/victor.jpg';
 
 const About = () => {
   // State for animated numbers

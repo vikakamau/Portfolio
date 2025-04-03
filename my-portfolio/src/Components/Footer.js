@@ -9,18 +9,18 @@ const Footer = () => {
     <div className='footer'>
       <div className='footer-top'>
         <div className='footer-top-left'>
-          <h1>Dickson<span style={{ color: '#ff0080' }}>M</span></h1>
+          <h1>Victor<span style={{ color: '#ff0080' }}>K</span></h1>
           <p>
             I am a Full Stack Developer and a Digital Marketer from Nairobi, Kenya, with five years of experience in building dynamic and scalable web applications. Passionate about crafting efficient solutions, I specialize in both front-end and back-end development to create seamless digital experiences.
           </p>
           <div className="footer-social-links">
-            <a href="https://github.com/dickson4954?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a href="https://github.com/vikakamau?tab=repositories" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <FaGithub className="social-icon" />
             </a>
-            <a href="https://www.linkedin.com/in/dickson-murithi-34bb10311" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/victor-kamau-680211281" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <FaLinkedin className="social-icon" />
             </a>
-            <a href="mailto:dicksonmurithi155@gmail.com" aria-label="Email">
+            <a href="mailto:vikakamau04@gmail.com" aria-label="Email">
               <FaEnvelope className="social-icon" />
             </a>
           </div>

@@ -8,7 +8,7 @@ const Hero = () => {
     <div id='home' className='hero'>
       <img src={profile_img} alt='Profile' className='profile-img' />
       <h1>
-        <span>I'm Dickson Murithi,</span> Full Stack Developer & Digital Marketer based in Kenya.
+        <span>I'm Victor Kamau,</span> Full Stack Developer, Digital Marketer & professional online writter based in Kenya.
       </h1>
       <p>
         I am a Full Stack Developer from Nairobi, Kenya, with five years of experience in building dynamic and scalable web applications.
@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
         {/* Resume Download Button */}
         <div className='hero-resume'>
-          <a href='/resume.pdf' download='Dickson_Murithi_Resume.pdf' className='hero-resume-button'>
+          <a href='/resumee.pdf' download='Victor_Kamau_Resumee.pdf' className='hero-resume-button'>
             Download Resume
           </a>
         </div>

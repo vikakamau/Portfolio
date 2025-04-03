@@ -18,7 +18,7 @@ const closeMenu = () =>{
 
     return (
         <div className='navbar'>
-            <h1 className="nav-logo">Dickson<span style={{ color: '#ff0080' }}>M</span></h1>
+            <h1 className="nav-logo">Victor<span style={{ color: '#ff0080' }}>K</span></h1>
             <img src={menu_open} onClick={openMenu} alt='' className="nav-mob-open" />
             <ul ref={menuRef} className="nav-menu">
                 <img src={menu_close} onClick={closeMenu} alt='' className='nav-mob-close' />
