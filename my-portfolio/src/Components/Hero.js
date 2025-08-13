@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
         {/* Resume Download Button */}
         <div className='hero-resume'>
-          <a href='/resumee.pdf' download='Victor_Kamau_Resumee.pdf' className='hero-resume-button'>
+          <a href='https://drive.google.com/file/d/13jNQpoU3xnBwrjkP8uFWuGVdX34HZBNL/view?usp=sharing' download='Victor_Kamau_Resumee.pdf' className='hero-resume-button'>
             Download Resume
           </a>
         </div>
